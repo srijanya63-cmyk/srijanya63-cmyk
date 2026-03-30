@@ -1,6 +1,9 @@
 <h1 align="center">Hey I'm Srijanya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width="400" src=<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/0335847d-620e-4861-b5ef-5b5e1fb23be9">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanya63-cmyk&label=Profile%20views&color=0e75b6&style=flat" alt="srijanya63-cmyk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijanya63-cmyk" alt="srijanya63-cmyk" /></a> </p>
