@@ -1,3 +1,4 @@
+![logo](https://github.com/srijanya63-cmyk/srijanya63-cmyk/blob/main/WhatsApp%20Image%202026-03-31%20at%202.17.01%20AM.jpeg)
 <h1 align="center">Hey I'm Srijanya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
